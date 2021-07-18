@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
 
 require "pdf2text"
+
+p Pdf2text::VERSION
